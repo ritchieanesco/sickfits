@@ -1,1 +1,4 @@
 node_modules/
+webpack/
+*.map
+.next/
