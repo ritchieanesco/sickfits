@@ -2,3 +2,4 @@ node_modules/
 webpack/
 *.map
 **/.next/
+variables.env
